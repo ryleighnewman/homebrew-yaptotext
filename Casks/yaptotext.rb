@@ -1,6 +1,6 @@
 cask "yaptotext" do
   version "1.3.1"
-  sha256 :no_check
+  sha256 "f0a011ffafd14b9e8652ec776d20305b9aa3f71f90c6786a08938b3ab5297d1c"
 
   url "https://github.com/ryleighnewman/YapToText/releases/download/v#{version}-11/YapToText-#{version}.zip",
       verified: "github.com/ryleighnewman/YapToText/"
