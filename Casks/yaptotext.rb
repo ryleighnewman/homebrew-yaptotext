@@ -8,7 +8,7 @@ cask "yaptotext" do
   desc "On-device dictation and speech-to-text for the Mac"
   homepage "https://github.com/ryleighnewman/YapToText"
 
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
 
   app "YapToText.app"
 
