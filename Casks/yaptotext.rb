@@ -6,7 +6,7 @@ cask "yaptotext" do
       verified: "github.com/ryleighnewman/YapToText/"
   name "YapToText"
   desc "On-device dictation and speech-to-text for the Mac"
-  homepage "https://github.com/ryleighnewman/YapToText"
+  homepage "https://yaptotext.com"
 
   depends_on macos: :sonoma
 
