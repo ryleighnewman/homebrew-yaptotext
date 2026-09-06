@@ -1,8 +1,8 @@
 cask "yaptotext" do
-  version "1.4"
-  sha256 "ff2cc915422b23eeee3592cebedfa7b374335a06dce1de55a7c9cad4ee309410"
+  version "1.5"
+  sha256 "230608316b227e893e17e85bccfac4183a528f58ea7fc4c3d087cc76693fa429"
 
-  url "https://github.com/ryleighnewman/YapToText/releases/download/v#{version}-14/YapToText-#{version}.zip",
+  url "https://github.com/ryleighnewman/YapToText/releases/download/v#{version}-15/YapToText-#{version}.zip",
       verified: "github.com/ryleighnewman/YapToText/"
   name "YapToText"
   desc "On-device dictation and speech-to-text for the Mac"
